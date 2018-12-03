@@ -1,0 +1,1 @@
+# codeforces__Stripe-2
